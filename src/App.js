@@ -51,7 +51,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1>Kareem Todo List</h1>
+        <h1>Todo List</h1>
       </header>
       <Form
         inputText={inputText}
